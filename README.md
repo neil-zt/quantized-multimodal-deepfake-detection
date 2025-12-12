@@ -12,7 +12,7 @@ We have attached all the notebooks that were used for this project.
     - **Part C**: Replacing EfficientNet with ResNet with the DeepFake Dataset 
     - **Part D**: Replacing EfficientNet with ResNet with the LAV-DF Dataset 
 - [`notebooks/2-quantization-efficientnet.ipynb`](notebooks/2-quantization-efficientnet.ipynb)
-    - **Part E**: Quantization for ResNet using the DeepFake Dataset
+    - **Part E**: Quantization for EfficientNet using the DeepFake Dataset
 - [`notebooks/3-quantization-resnet.ipynb`](notebooks/3-quantization-resnet.ipynb)
     - **Part F**: Quantization for ResNet using the LAV-DF Dataset
 
