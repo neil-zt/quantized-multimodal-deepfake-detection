@@ -15,6 +15,10 @@ We have attached all the notebooks that were used for this project.
     - **Part E**: Quantization for EfficientNet using the DeepFake Dataset
 - [`notebooks/3-quantization-resnet.ipynb`](notebooks/3-quantization-resnet.ipynb)
     - **Part F**: Quantization for ResNet using the LAV-DF Dataset
+- [`notebooks/4-audio-classifier.ipynb`](notebooks/4-audio-classifier.ipynb)
+    - **Part G**: Audio Classifier for the LAV-DF Dataset
+- [`notebooks/5-multimodal-classifier.ipynb`](notebooks/5-multimodal-classifier.ipynb)
+    - **Part H**: Multimodal Classifier for the LAV-DF Dataset
 
 ## The Poster
 
